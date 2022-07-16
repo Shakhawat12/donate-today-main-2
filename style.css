@@ -111,3 +111,21 @@
     top: 134%;
     left: 48%;
 }
+
+.donate-plan {
+    text-align: center;
+    position: absolute;
+    font-size: 40px;
+    font-family: 'Poppins', sans-serif;
+    top: 170%;
+    left: 44%;
+}
+
+.d22 {
+    text-align: center;
+    position: absolute;
+    font-size: 19px;
+    top: 182%;
+    left: 20%;
+    right: 19%;
+}

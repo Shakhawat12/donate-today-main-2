@@ -171,5 +171,39 @@
     background-size: 1.5cm;
     height: 5cm;
     width: 12cm;
+}
 
+.donee {
+    text-align: left;
+    position: absolute;
+    top: 250%;
+    left: 4%;
+    font-size: 35px;
+    font-family: 'Poppins', sans-serif;
+    margin-left: 4px;
+}
+
+.fig {
+    position: absolute;
+    top: 245%;
+    left: 60%;
+    height: 375px;
+    width: 375px;
+}
+
+.doner {
+    position: absolute;
+    top: 265%;
+    left: 5%;
+    right: 50%;
+}
+
+.button123 {
+    background-color: rgb(255, 94, 0);
+    position: absolute;
+    font-size: 20px;
+    border-radius: 5px;
+    top: 278%;
+    left: 5%;
+    color: white;
 }
